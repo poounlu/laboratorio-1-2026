@@ -23,6 +23,16 @@ public Set obtenerArtefactosUnicos(){
 
 public List buscarArtefactosPorTipo(String tipo){
     List <Artefacto> tiposDeArtefactos = new ArrayList<>();
+
+    for (Artefacto tipoArtefacto: misArtefactos ) {
+            if (tipoArtefacto.getTipo().equals(tipo)){
+                tiposDeArtefactos.add(tipoArtefacto);
+            }
+        }
+    Arrays.sort(tiposDeArtefactos,);
+
+        return tiposDeArtefactos;
+
 }
 public Map<String, Integer> contarArtefactosPorTipo(){
 
