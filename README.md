@@ -8,7 +8,7 @@
 
 # Grupo
 
-- Herrera Cristian Ezequiel (200839) - cristian...@gmail.com
+- Herrera Cristian Ezequiel (200839) - cristian...@gmail.com 
 - SCHWAB FACUNDO NAHUEL (206311) - fir...@gmail.com
 
 # Contexto / Escenario
