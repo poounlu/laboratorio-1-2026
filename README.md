@@ -9,7 +9,7 @@
 # Grupo
 
 - Agustin M. (194512) - agu...@outlook.com.ar
-- Julieta E. (208142) - jul...@gmail.com
+- Julieta E. (208142) - jul...@gmail.com 
 - Marlon P. (195408) - mar...@gmail.com 
 
 # Contexto / Escenario
