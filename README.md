@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Martin W - mar...@gmail.com
+- Marco S - sib...@outlook.com.ar
 
 # Contexto / Escenario
 
