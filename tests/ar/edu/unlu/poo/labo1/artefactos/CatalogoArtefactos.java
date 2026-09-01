@@ -34,7 +34,7 @@ public class CatalogoArtefactos {
 
         List<Artefacto> listaArtefactos = catalogo.stream()
                 .filter(artefactoTIpo -> tipo2 == artefactoTIpo)
-                .collect(Collectors.toList());
+                .collect(Collectors.toList()); //asdasd
     }
 
 }
