@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Santino M (212233) - san...@gmail.com
+- Mateo L (212232) - mat...@gmail.com
 
 # Contexto / Escenario
 
