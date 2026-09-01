@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Herrera Cristian Ezequiel (200839) - cristian...@gmail.com
+- SCHWAB FACUNDO NAHUEL (206311) - fir...@gmail.com
 
 # Contexto / Escenario
 
