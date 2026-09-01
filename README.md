@@ -9,7 +9,7 @@
 # Grupo
 
 - Santino Morrone (200994) - san...@gmail.com
-- EMateo Miguez (203367) - mat...@gmail.com
+- Mateo Miguez (203367) - mat...@gmail.com
 
 # Contexto / Escenario
 
