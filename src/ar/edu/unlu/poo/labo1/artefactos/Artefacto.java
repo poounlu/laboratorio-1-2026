@@ -40,7 +40,7 @@ public class Artefacto {
 
     @Override
     public int hashCode() {
-        return Objects.hash(nombre, tipo);
+        return Objects.hash(nombre);
     }
 
 }
