@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Santino Morrone (200994) - san...@gmail.com
+- EMateo Miguez (203367) - mat...@gmail.com
 
 # Contexto / Escenario
 
