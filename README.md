@@ -9,7 +9,8 @@
 # Grupo
 
 - Nayla L (Legajo 1) - nay...@gmail.com
-- Facundo F (Legajo 2) - facu...@gmail.com
+- Facundo F (Legajo 2) - fac...@gmail.com 
+- Facundo S (Legajo 3) - fir..@gmail.com
 
 # Contexto / Escenario
 
