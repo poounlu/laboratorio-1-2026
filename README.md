@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Franco F. 195325 - fra...@gmail.com
+- Ignacio H. 190215 - ign...@gmail.com
 
 # Contexto / Escenario
 
