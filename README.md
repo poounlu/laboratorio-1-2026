@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- - Maria Celeste C. M. (190162) - cel...@gmail.com
+- - Abril S. (199257) - abr..@gmail.com
 
 # Contexto / Escenario
 
