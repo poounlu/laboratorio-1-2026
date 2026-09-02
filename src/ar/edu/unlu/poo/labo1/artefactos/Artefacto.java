@@ -1,7 +1,5 @@
 package ar.edu.unlu.poo.labo1.artefactos;
 
-import ar.edu.unlu.poo.labo1.libreria.Libro;
-
 import java.util.Objects;
 
 public class Artefacto {
@@ -10,8 +8,8 @@ public class Artefacto {
     private String tipo;
 
     public Artefacto(String nombre, int poder, String tipo) {
-        if(poder < 0 || poder > 100){
-            throw new IllegalArgumentException("El poder debe estar entre 0 y 100");
+        if(poder < 1 || poder > 100){
+            throw new IllegalArgumentException("El poder debe estar entre 1 y 100");
         }
         this.nombre = nombre;
         this.poder = poder;
