@@ -8,8 +8,9 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Lopez Luna (210895) - luna@gmail.com
+- Dellagogna Ciro (208249) - ciro@gmail.com
+- Juez Mayer Ignacio (211747) - ignacio@gmail.com
 
 # Contexto / Escenario
 
